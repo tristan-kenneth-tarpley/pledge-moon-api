@@ -2,10 +2,10 @@
   "name": "pledge-moon",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/App.js",
+  "main": "dist/app.js",
   "scripts": {
     "test": "npm test",
-    "start": "tsc && node dist/App.js",
+    "start": "tsc && node dist/app.js",
     "dev": "nodemon --exec npm start",
     "build": "tsc"
   },
